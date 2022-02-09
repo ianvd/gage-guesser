@@ -18,6 +18,13 @@ The goal of this project is to estimate discharge rivers based on the several cl
 
 USGS Gage Data --  [program to retreive data](https://github.com/USGS-python/dataretrieval)
 
+USGS Weather Data -- 
+[Rainier Weather](https://waterdata.usgs.gov/wa/nwis/current/?type=mrainier&group_key=basin_cd)
+
+[discharge/precip/temp](https://waterdata.usgs.gov/wa/nwis/uv?cb_00021=on&cb_00045=on&cb_00060=on&format=gif_default&site_no=12082500&period=&begin_date=2022-02-01&end_date=2022-02-08)
+
+Site numbers - 12092000, 12082500, 14226500
+
 NOAA Climate data
 
 
