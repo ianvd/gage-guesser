@@ -4,7 +4,7 @@ Theo Ross and Ian Van Dusen
 
 **Intro:**
 
-The goal of this project is to estimate discharge rivers based on the several climatic factors occurring in the hydrosheds. We will look at different gages downstream of glaciers and collect shapefiles around their watersheds boundaries. We will retrieve climate data for each area and display influences of different climate metrics on discharge levels. Finally, we will train a machine learning model to predict discharge at specific gages.
+The goal of this project is to estimate river discharge levels based on the several climatic factors occurring in the hydrosheds. We will look at different gages downstream of glaciers and collect shapefiles around their watersheds boundaries. We will retrieve climate data for each area and display influences of different climate metrics on discharge levels. Finally, we will train a machine learning model to predict discharge at specific gages.
 
 **Research Question:** 
 
@@ -50,7 +50,7 @@ folium?<br>
 
 **Expected Outcomes**
 
-We anticipate discharge to be highly with climatic factors such as discharge. Regions with glacial influence on discharge will be heightened later in the season with warmer drier months as main snow melt has already occurred. 
+We anticipate discharge to be particularly correlated with climatic factors such as precipitation and temperature. Additionally, we expect that regions with glacial influence on discharge will be heightened later in the season during warmer, drier months as main snow melt has already occurred.
 
 ![Mt Rainier](doc/MtRainier.jpeg)
 
