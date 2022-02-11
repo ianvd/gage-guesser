@@ -57,7 +57,7 @@ folium?<br>
 
 **Expected Outcomes**
 
-We anticipate discharge to be particularly correlated with climatic factors such as precipitation and temperature. Additionally, we expect that regions with glacial influence on discharge will be heightened later in the season during warmer, drier months as main snow melt has already occurred.
+We anticipate discharge to be particularly correlated with climatic factors such as precipitation and temperature. Additionally, we expect that glacial influence on discharge will be heightened during warmer, drier months as main snow melt has already occurred.
 
 ![Mt Rainier](doc/MtRainier.jpeg)
 
