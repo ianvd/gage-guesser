@@ -1,0 +1,17 @@
+name: gage
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.8    # Python version 3.8
+    - matplotlib    # 2D plotting library
+    - geopandas     # Geospatial extension of pandas
+    - pandas        # dataframe management    
+    - numpy         # N-d array and numerics 
+    - jupyter       # Interactive notebooks
+    - folium        # Python wrapper for Leaflet.js for plotting interactive maps
+    - shapely       # Vector formats
+    - cartopy       # Vector drawing and filtering operations
+    - rioxarray     # Read/write gridded data
+    - rasterio      # Raster operations
+    - scikit-learn  # machine learning
